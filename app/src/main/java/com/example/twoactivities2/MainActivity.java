@@ -50,9 +50,6 @@ public class MainActivity extends AppCompatActivity {
     public void onStart(){
         super.onStart();
             Log.d(LOG_TAG, "onStart");
-
-
-
     }
 
     public void launchSecondActivity(View view) {
